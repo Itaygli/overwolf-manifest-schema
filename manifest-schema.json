@@ -1,5 +1,5 @@
 {
-  "title": "my first schema test for overwolf apps minifest",
+  "title": "my first schema test for overwolf apps manifest",
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
 
